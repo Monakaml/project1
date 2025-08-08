@@ -424,7 +424,7 @@ body{
 .sec5 .circle-container{
     position: absolute;
     right: 100px;
-    bottom: 190px;
+    bottom: 160px;
 }
 .sec5 .circle{
     width: 15px;
@@ -853,4 +853,5 @@ color: rgb(141, 82, 82);
     background-color: rgb(86, 86, 207);
     transition: 0.5s;
 }
+
 /* /////////////////////////////////////////////// */
